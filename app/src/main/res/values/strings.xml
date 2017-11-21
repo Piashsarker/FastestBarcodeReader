@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FastestBarcodeReader</string>
+    <string name="camera_permission_granted">Camera Permission Granted.</string>
+    <string name="camera_permission_request">Camera permission is required for Barcode Scaning.</string>
+    <string name="thanks_for_permission">Thanks for your permission.</string>
+    <string name="sorry_for_not_permission">Sorry , We are not able to scan Barcode without your permission.</string>
 </resources>

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FastestBarcodeReader.iml" filepath="$PROJECT_DIR$/FastestBarcodeReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FastestBarcodeReader.iml" filepath="$PROJECT_DIR$/.idea/FastestBarcodeReader.iml" />
+      <module fileurl="file://E:\AndroidProject\FastestBarcodeReader\FastestBarcodeReader.iml" filepath="E:\AndroidProject\FastestBarcodeReader\FastestBarcodeReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\AndroidProject\FastestBarcodeReader\app\app.iml" filepath="E:\AndroidProject\FastestBarcodeReader\app\app.iml" />
     </modules>
   </component>
 </project>
